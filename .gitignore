@@ -1,4 +1,4 @@
-﻿# Environment variables
+# Environment variables
 .env
 *.env.local
 
@@ -41,3 +41,7 @@ debug/
 # Data files
 data.json
 meta.csv
+
+# Local AI codebase pack (Repomix; never commit)
+repomix-output.xml
+repomix-output.*.xml
